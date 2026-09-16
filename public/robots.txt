@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /checkout
+Disallow: /compra-exitosa
+Disallow: /pago-pendiente
+Disallow: /pago-fallido
